@@ -86,10 +86,12 @@ margin:  0 0 80px;
 }
 
 
-
 .recipes__videos {
     display: flex;
     justify-content: center;
     gap: 100px;
     list-style: none;
+}
+.recipes__iframe {
+    border: none;
 }
